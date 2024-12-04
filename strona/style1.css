@@ -1,0 +1,16 @@
+body{
+    background-color: blue;
+}
+header{
+    color: white;
+    text-align: center;
+    background: black;
+    font-size: 30px;
+    padding: 60px;
+}
+.conatiner{
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+}
